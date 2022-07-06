@@ -1,0 +1,69 @@
+body {
+    background-image: url("./pics/dicebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    margin-left: 290px;
+    margin-top: 65px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    color: #FDB9FC;
+}
+
+h4 {
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 14px 1px;
+    color: #CFFFFE;
+}
+
+#s2 {
+    margin-bottom: 20px;
+}
+
+.roll {
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+#s1,
+#s2 {
+    border-radius: 20px;
+    height: 40px;
+    width: 250px;
+    text-align: center;
+    border-color: rgb(212, 79, 195);
+}
+
+#bt {
+    border-radius: 12px;
+    height: 30px;
+    border-color: #FF1700;
+    box-shadow: 0 8px 16px 0 rgba(170, 78, 78, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bolder;
+    background-color: rgb(197, 245, 245);
+    margin-left: 45px;
+}
+
+#v {
+    border-radius: 20px;
+    height: 40px;
+    width: 250px;
+    text-align: center;
+    border-color: #1DB9C3;
+}
+
+#r {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: Brush Script MT;
+    color: crimson;
+    margin-top: 10px;
+    margin-left: 8px;
+}
